@@ -1,0 +1,229 @@
+﻿usina;mes;chuva_media
+Agua Vermelha;Janeiro;275.57
+Barra Bonita;Janeiro;264.15
+Capivara;Janeiro;229.39
+Emborcacao;Janeiro;249.44
+Foz do Areia;Janeiro;203.76
+Furnas;Janeiro;284.80
+Ita Montante;Janeiro;194.59
+Itaipu D;Janeiro;197.47
+Itaipu E;Janeiro;188.70
+Promissao;Janeiro;256.76
+Rosana Norte;Janeiro;238.55
+Rosana Sul;Janeiro;222.03
+Salto Santiago;Janeiro;197.12
+Sao Simao;Janeiro;248.18
+Serra da Mesa;Janeiro;276.96
+Sobradinho BA;Janeiro;134.46
+Sobradinho MG;Janeiro;202.36
+Tres Marias;Janeiro;257.28
+Tucurui;Janeiro;287.45
+Agua Vermelha;Fevereiro;207.40
+Barra Bonita;Fevereiro;222.92
+Capivara;Fevereiro;192.05
+Emborcacao;Fevereiro;188.69
+Foz do Areia;Fevereiro;192.99
+Furnas;Fevereiro;198.75
+Ita Montante;Fevereiro;190.24
+Itaipu D;Fevereiro;181.42
+Itaipu E;Fevereiro;172.90
+Promissao;Fevereiro;206.34
+Rosana Norte;Fevereiro;202.91
+Rosana Sul;Fevereiro;184.74
+Salto Santiago;Fevereiro;191.31
+Sao Simao;Fevereiro;198.82
+Serra da Mesa;Fevereiro;228.33
+Sobradinho BA;Fevereiro;107.15
+Sobradinho MG;Fevereiro;144.47
+Tres Marias;Fevereiro;168.27
+Tucurui;Fevereiro;264.71
+Agua Vermelha;Março;177.06
+Barra Bonita;Março;168.49
+Capivara;Março;130.79
+Emborcacao;Março;186.48
+Foz do Areia;Março;128.41
+Furnas;Março;179.81
+Ita Montante;Março;134.95
+Itaipu D;Março;121.14
+Itaipu E;Março;125.93
+Promissao;Março;151.60
+Rosana Norte;Março;140.09
+Rosana Sul;Março;125.32
+Salto Santiago;Março;130.14
+Sao Simao;Março;192.10
+Serra da Mesa;Março;224.82
+Sobradinho BA;Março;133.39
+Sobradinho MG;Março;164.64
+Tres Marias;Março;174.70
+Tucurui;Março;256.48
+Agua Vermelha;Abril;76.73
+Barra Bonita;Abril;83.29
+Capivara;Abril;79.90
+Emborcacao;Abril;73.31
+Foz do Areia;Abril;100.29
+Furnas;Abril;74.13
+Ita Montante;Abril;130.86
+Itaipu D;Abril;116.41
+Itaipu E;Abril;100.46
+Promissao;Abril;74.50
+Rosana Norte;Abril;77.52
+Rosana Sul;Abril;82.62
+Salto Santiago;Abril;125.96
+Sao Simao;Abril;80.22
+Serra da Mesa;Abril;95.88
+Sobradinho BA;Abril;62.80
+Sobradinho MG;Abril;62.66
+Tres Marias;Abril;66.29
+Tucurui;Abril;156.44
+Agua Vermelha;Maio;51.88
+Barra Bonita;Maio;79.44
+Capivara;Maio;92.00
+Emborcacao;Maio;25.57
+Foz do Areia;Maio;115.81
+Furnas;Maio;52.54
+Ita Montante;Maio;134.95
+Itaipu D;Maio;134.19
+Itaipu E;Maio;114.60
+Promissao;Maio;64.04
+Rosana Norte;Maio;81.17
+Rosana Sul;Maio;97.88
+Salto Santiago;Maio;138.25
+Sao Simao;Maio;27.59
+Serra da Mesa;Maio;20.99
+Sobradinho BA;Maio;14.73
+Sobradinho MG;Maio;17.59
+Tres Marias;Maio;33.77
+Tucurui;Maio;52.15
+Agua Vermelha;Junho;27.12
+Barra Bonita;Junho;51.71
+Capivara;Junho;76.33
+Emborcacao;Junho;9.87
+Foz do Areia;Junho;105.72
+Furnas;Junho;27.37
+Ita Montante;Junho;122.15
+Itaipu D;Junho;113.92
+Itaipu E;Junho;85.19
+Promissao;Junho;39.34
+Rosana Norte;Junho;60.76
+Rosana Sul;Junho;83.68
+Salto Santiago;Junho;125.73
+Sao Simao;Junho;9.88
+Serra da Mesa;Junho;4.40
+Sobradinho BA;Junho;4.29
+Sobradinho MG;Junho;6.38
+Tres Marias;Junho;14.43
+Tucurui;Junho;8.77
+Agua Vermelha;Julho;22.23
+Barra Bonita;Julho;50.28
+Capivara;Julho;60.52
+Emborcacao;Julho;8.07
+Foz do Areia;Julho;102.64
+Furnas;Julho;24.99
+Ita Montante;Julho;134.06
+Itaipu D;Julho;94.40
+Itaipu E;Julho;66.57
+Promissao;Julho;28.06
+Rosana Norte;Julho;43.63
+Rosana Sul;Julho;66.46
+Salto Santiago;Julho;117.18
+Sao Simao;Julho;8.38
+Serra da Mesa;Julho;2.84
+Sobradinho BA;Julho;1.94
+Sobradinho MG;Julho;4.61
+Tres Marias;Julho;12.19
+Tucurui;Julho;4.71
+Agua Vermelha;Agosto;27.75
+Barra Bonita;Agosto;42.84
+Capivara;Agosto;56.60
+Emborcacao;Agosto;12.75
+Foz do Areia;Agosto;92.61
+Furnas;Agosto;31.57
+Ita Montante;Agosto;122.09
+Itaipu D;Agosto;83.85
+Itaipu E;Agosto;68.71
+Promissao;Agosto;31.95
+Rosana Norte;Agosto;45.15
+Rosana Sul;Agosto;62.28
+Salto Santiago;Agosto;101.44
+Sao Simao;Agosto;14.31
+Serra da Mesa;Agosto;7.55
+Sobradinho BA;Agosto;2.00
+Sobradinho MG;Agosto;7.58
+Tres Marias;Agosto;18.19
+Tucurui;Agosto;7.47
+Agua Vermelha;Setembro;81.39
+Barra Bonita;Setembro;101.07
+Capivara;Setembro;116.95
+Emborcacao;Setembro;44.93
+Foz do Areia;Setembro;165.80
+Furnas;Setembro;91.24
+Ita Montante;Setembro;175.66
+Itaipu D;Setembro;151.28
+Itaipu E;Setembro;119.47
+Promissao;Setembro;77.44
+Rosana Norte;Setembro;98.79
+Rosana Sul;Setembro;123.77
+Salto Santiago;Setembro;173.99
+Sao Simao;Setembro;50.57
+Serra da Mesa;Setembro;38.17
+Sobradinho BA;Setembro;10.03
+Sobradinho MG;Setembro;28.55
+Tres Marias;Setembro;59.26
+Tucurui;Setembro;40.07
+Agua Vermelha;Outubro;130.05
+Barra Bonita;Outubro;138.37
+Capivara;Outubro;134.43
+Emborcacao;Outubro;114.88
+Foz do Areia;Outubro;164.07
+Furnas;Outubro;132.56
+Ita Montante;Outubro;195.02
+Itaipu D;Outubro;175.61
+Itaipu E;Outubro;158.62
+Promissao;Outubro;121.06
+Rosana Norte;Outubro;132.34
+Rosana Sul;Outubro;137.06
+Salto Santiago;Outubro;186.56
+Sao Simao;Outubro;124.38
+Serra da Mesa;Outubro;136.51
+Sobradinho BA;Outubro;51.67
+Sobradinho MG;Outubro;97.18
+Tres Marias;Outubro;107.96
+Tucurui;Outubro;130.17
+Agua Vermelha;Novembro;186.46
+Barra Bonita;Novembro;164.34
+Capivara;Novembro;143.09
+Emborcacao;Novembro;209.76
+Foz do Areia;Novembro;149.14
+Furnas;Novembro;202.21
+Ita Montante;Novembro;172.19
+Itaipu D;Novembro;159.11
+Itaipu E;Novembro;155.74
+Promissao;Novembro;158.53
+Rosana Norte;Novembro;149.05
+Rosana Sul;Novembro;141.44
+Salto Santiago;Novembro;162.20
+Sao Simao;Novembro;201.60
+Serra da Mesa;Novembro;233.08
+Sobradinho BA;Novembro;124.69
+Sobradinho MG;Novembro;206.84
+Tres Marias;Novembro;209.74
+Tucurui;Novembro;210.73
+Agua Vermelha;Dezembro;263.68
+Barra Bonita;Dezembro;221.59
+Capivara;Dezembro;183.84
+Emborcacao;Dezembro;277.00
+Foz do Areia;Dezembro;160.84
+Furnas;Dezembro;281.03
+Ita Montante;Dezembro;166.47
+Itaipu D;Dezembro;172.04
+Itaipu E;Dezembro;176.12
+Promissao;Dezembro;221.50
+Rosana Norte;Dezembro;198.23
+Rosana Sul;Dezembro;175.91
+Salto Santiago;Dezembro;171.48
+Sao Simao;Dezembro;264.03
+Serra da Mesa;Dezembro;302.76
+Sobradinho BA;Dezembro;152.65
+Sobradinho MG;Dezembro;251.60
+Tres Marias;Dezembro;282.68
+Tucurui;Dezembro;275.66
