@@ -1,2 +1,2 @@
-# hello-world
+# cdv_lammoc
 Just another repository
